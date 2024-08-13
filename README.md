@@ -13,7 +13,7 @@ My source code collection, especially CFD codes
 * [数値流体工学](https://www.utp.or.jp/book/b302011.html), Fortran
 * [I do like CFD](http://ossanworld.com/cfdbooks/cfdbooks.html), Fortran
 * [コンピュータによる流体力学](https://www.maruzen-publishing.co.jp/item/b294565.html), Fortran
-* [計算流体力学-CIPマルチモーメント法による手法 CD-ROM付-](https://www.coronasha.co.jp/np/isbn/9784339045970/], C++
+* [計算流体力学-CIPマルチモーメント法による手法 CD-ROM付-](https://www.coronasha.co.jp/np/isbn/9784339045970/), C++
 ### FEM
 * [詳解流れの数値計算-有限要素法による非圧縮性流体解析の基礎-](https://www.coronasha.co.jp/np/isbn/9784339046762/), Fortran
 * [有限要素法による流れのシミュレーション](https://www.maruzen-publishing.co.jp/item/b295175.html), Fortran
