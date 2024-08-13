@@ -23,6 +23,8 @@ My source code collection, especially CFD codes
 * [格子ボルツマン法・差分格子ボルツマン法](https://www.coronasha.co.jp/np/isbn/9784339046588/), Fortran
 ### MPS
 * [粒子法入門](https://www.maruzen-publishing.co.jp/item/b294791.html), C++
+### Spectral Method
+* [Spectral Method](https://link.springer.com/book/10.1007/978-3-540-30728-0), Fortran
 
 ## From web and repository
 ### FDM·FVM
@@ -64,4 +66,47 @@ My source code collection, especially CFD codes
 * [TYCHO](https://www.tycho-cfd.at/), C, multidimensional (1D/2D and 3D) compressible hydrodynamics code.
 * [HiFiLES](https://github.com/HiFiLES/HiFiLES-solver), C/C++, High Fidelity Large Eddy Simulation software package.
 * [SU2](https://su2code.github.io/), C++, multiphysics analysis and design optimization software.
-* 
+* [OpenHyperFLOW2D](https://github.com/sergeas67/OpenHyperFLOW2D), C++, 2D transient viscous compressible multicomponent sub/trans/supersonic reacting gas flow.
+* [ISAAC](https://isaac-cfd.sourceforge.net/), Fortran, compressible Euler/Navier-Stokes computational fluid dynamics code.
+* [VH-1](http://wonka.physics.ncsu.edu/pub/VH-1/), Fortran, multidimensional ideal compressible hydrodynamics code.
+* [STREAmS](https://github.com/STREAmS-CFD/STREAmS-2), Fortran, Direct Numerical Simulations of compressible turbulent flows in Cartesian geometry.
+* [ADflow](https://mdolab-adflow.readthedocs-hosted.com/en/latest/), Fortran, structured multi-block and overset 3D CFD solver.
+
+### LBM
+* [LBMcode](https://github.com/sthavishtha/list-lattice-Boltzmann-codes), curated list of LBM frameworks.
+* [LatticeBoltzmann](https://compphys.go.ro/lattice-boltzmann/), blog for LBM.
+* [palabos](https://palabos.unige.ch/), C++, framework for general-purpose computational fluid dynamics.
+* [OpenLB](https://www.openlb.net/), C++, C++ package for the implementation of lattice Boltzmann methods.
+* [waLBerla](https://www.walberla.net/), C++, common LBM collision models are implemented (SRT, TRT, MRT).
+* [TCLB](https://github.com/CFD-GO/TCLB), C++, MPI+CUDA, MPI+CPU or MPI+HIP high-performance Computational Fluid Dynamics simulation code.
+* [MF-LBM](https://github.com/lanl/MF-LBM), Fortran, portable, scalable and high-performance Lattice Boltzmann code for DNS of flow in porous media.
+
+### Spectral Element Method (SEM)
+* [spectral_element](https://sem.xmu.edu.cn/~cjxu/SEM_mem.html), Fortran, Lagrange interpolants shape functions, Gauss-Lobatto quadrature.
+* [Nek5000](https://nek5000.mcs.anl.gov/), Fortran/C, fast high-order scalable CFD.
+* [NekRS](https://nek5000.mcs.anl.gov/), Fortran/C, fast and scaleable computational fluid dynamics (CFD) solver targeting HPC applications.
+
+### Spectral Method
+* [channelflow.org](http://channelflow.org/), C++, incompressible Navier-Stokes flow in channel geometries.
+* [hit3dChumakov](https://chumakov.info/codes-hit3d.php), Fortran, incompressible homogeneous isotropic turbulence in a 3D-periodic box.
+* [ParallelSpectralPrograms](https://open.umich.edu/find/open-educational-resources/literature-science-arts/parallel-spectral-numerical-methods), Fortran, Matlab, Python, how to solve ODE and PDE.
+* [FourierFlows](https://github.com/FourierFlows/FourierFlows.jl), Julia, partial differential equations on periodic domains using Fourier-based pseudospectral methods.
+* [LESGO](https://lesgo.me.jhu.edu/), Fortran, filtered Navier-Stokes equations in the high-Reynolds number limit on a Cartesian mesh.
+
+### SPH
+* [DualSPHysics](https://dual.sphysics.org/sphysics-project/), C++, Smoothed Particle Hydrodynamics numerical model developed to study free-surface flows.
+* [SPHinXsys](https://www.sphinxsys.org/), C++, acronym from Smoothed Particle Hydrodynamics for industrial complex systems.
+* [OpenRadioss](https://openradioss.org/), Fortran, complex multiphysics with SPH, ALE, and FSI.
+
+### MPS
+* [OpenMPS](https://openmps.github.io/), C++, open-source implemention of Moving Particle Semi-implicit (MPS) method.
+
+### Vortex Method
+* [vic2d](https://github.com/markstock/vic2d), C·Fortran, command-line two-dimensional fluid simulator using a novel semi-Lagrangian advection technique.
+* [VM2D](https://github.com/vortexmethods/VM2D), C++, vortex particle method in computational fluid dynamics for viscous incompressible flows simulation.
+* [DVMpp](https://github.com/gdeskos/DVMpp), C++, 2D discrete vortex method code.
+
+### Multiphase, DEM
+* [MFC](https://github.com/mflowcode/MFC), Fortran, compressible multi-component and multi-phase flows.
+* [Kratos](https://github.com/KratosMultiphysics/Kratos), C++·Python, framework for building parallel, multi-disciplinary simulation software.
+* [MFiX](https://mfix.netl.doe.gov/), Fortran, multiphase flow modeling for real-world applications.
