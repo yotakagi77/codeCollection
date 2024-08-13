@@ -30,4 +30,38 @@ My source code collection, especially CFD codes
 * [nast2d](https://ins.uni-bonn.de/content/software-nast2d), C, Fortran, 2D, incompressible Navier-Stokes equations.
 * [CADMAS-SURF](https://www.cdit.or.jp/program/cadmas.html), Fortran, wave/free surface flow.
 * [PARIS](http://www.ida.upmc.fr/~zaleski/paris/), Fortran, multiphase flow solver with VOF and fronttracking methods.
+* [surfer](http://www.ida.upmc.fr/~zaleski/codes/legacy_codes.html), Fortran, droplet and bubble legacy codes.
+* [afid](https://stevensrjam.github.io/Website/afid.html), Fortran, canonical wall bounded turbulent flows.
+* [pencil-code](http://pencil-code.nordita.org/), Fortran, compressible hydrodynamic flows with magnetic fields.
+* [CFL3D](https://nasa.github.io/CFL3D/), Fortran, structured-grid, cell-centered, upwind-biased, Reynolds-averaged Navier-Stokes (RANS) code.
+* [xcompact3d/Incompact3d](https://www.incompact3d.com/), Fortran, DNS/LES for turbulent flows.
+* [CaNS](https://github.com/p-costa/CaNS), Fortran, canonical Navier-Stokes solver with FFT.
+* [REEF3D](https://reef3d.wordpress.com/), C++, coastal, marine and hydraulic engineering flows.
+* [gerris](http://gerris.dalembert.upmc.fr/), C, free software program for the solution of the partial differential equations describing fluid flow.
+* [Basilisk](http://basilisk.fr/), C,  free software program for the solution of partial differential equations on adaptive Cartesian meshes.
+* [OpenFOAM](https://www.openfoam.com/), C++, Open Source Field Operation and Manipulation (OpenFOAM) C++ libraries.
+* [OpenFVM](https://openfvm.sourceforge.net/), C++, general CFD solver for the flow in complex 3D geometries.
+* [OpenFlower](https://openflower.sourceforge.net/index2.html), C++, Large Eddy Simulations of turbulent flows.
+* [FFR](https://www.eng.hokudai.ac.jp/labo/fluid/ssl/download/download.htm), Fortran
+* [code_saturne](https://www.code-saturne.org/cms/web/), Fortran, developed primarily by EDF for CFD applications.
+* [T-Flows](https://github.com/DelNov/T-Flows), Fortran, CFD program for simulation of turbulent, single and multiphase flows.
+* [UCNS3D](https://github.com/ucns3d-team/UCNS3D), Fortran, versatile 2D and 3D unstructured CFD framework for a wide-range of compressible flow problems.
+* [Clawpack](https://www.clawpack.org/), Fortran/Python, collection of finite volume methods for linear and nonlinear hyperbolic systems of conservation laws.
+
+### FEM
+* [nektar++](https://www.nektar.info/), C++, finite element package designed to allow one to construct efficient classical low polynomial order h-type solvers.
+* [deal.II](https://dealii.org/), C++, solution of partial differential equations using adaptive finite elements.
+* [Fluidity](https://fluidityproject.github.io/), C++, computational fluid dynamics code with adaptive unstructured mesh capabilities.
+* [HiFlow](https://emcl-gitlab.iwr.uni-heidelberg.de/hiflow3.org/hiflow3/), C++, multi-purpose finite element software.
+* [FrontFlow_blue](http://www.ciss.iis.u-tokyo.ac.jp/dl/download/permission.php?group_id=7), Fortran
+* [FEATFLOW](https://wwwold.mathematik.tu-dortmund.de/~featflow/en/index.html), Fortran, incompressible flow in 2D and 3D.
+* [elmer](https://www.elmerfem.org/blog/), Fortan/C, finite element software for multiphysical problems.
+* [JuliaFEM](https://github.com/JuliaFEM/JuliaFEM.jl), Julia, open-source software for reliable, scalable, distributed Finite Element Method.
+* [Firedrake](https://www.firedrakeproject.org/), Python·Cython, automated system for the solution of partial differential equations using the finite element method.
+* [GetFEM](https://getfem.readthedocs.io/en/latest/), Python, Matlab, solving potentially coupled systems of linear and nonlinear partial differential equations.
+
+### Compressible flow
+* [TYCHO](https://www.tycho-cfd.at/), C, multidimensional (1D/2D and 3D) compressible hydrodynamics code.
+* [HiFiLES](https://github.com/HiFiLES/HiFiLES-solver), C/C++, High Fidelity Large Eddy Simulation software package.
+* [SU2](https://su2code.github.io/), C++, multiphysics analysis and design optimization software.
 * 
