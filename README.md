@@ -49,6 +49,7 @@ My source code collection, especially CFD codes
 * [T-Flows](https://github.com/DelNov/T-Flows), Fortran, CFD program for simulation of turbulent, single and multiphase flows.
 * [UCNS3D](https://github.com/ucns3d-team/UCNS3D), Fortran, versatile 2D and 3D unstructured CFD framework for a wide-range of compressible flow problems.
 * [Clawpack](https://www.clawpack.org/), Fortran/Python, collection of finite volume methods for linear and nonlinear hyperbolic systems of conservation laws.
+* [aphros](https://github.com/cselab/aphros), C++, finite volume solver for incompressible multiphase flows with surface tension.
 
 ### FEM
 * [nektar++](https://www.nektar.info/), C++, finite element package designed to allow one to construct efficient classical low polynomial order h-type solvers.
@@ -110,3 +111,60 @@ My source code collection, especially CFD codes
 * [MFC](https://github.com/mflowcode/MFC), Fortran, compressible multi-component and multi-phase flows.
 * [Kratos](https://github.com/KratosMultiphysics/Kratos), C++·Python, framework for building parallel, multi-disciplinary simulation software.
 * [MFiX](https://mfix.netl.doe.gov/), Fortran, multiphase flow modeling for real-world applications.
+* [CFDEM](https://www.cfdem.com/), C++, high performance scientific computing in fluid mechanics and particle science.
+
+### Immersed Boundary Method (IBM)
+* [PetIBM](https://github.com/barbagroup/PetIBM), C++, 2D and 3D incompressible Navier-Stokes on stretched Cartesian grids using a projection approach.
+* [sdfibm](https://github.com/ChenguangZhang/sdfibm), C++, simulating fluid-solid interaction and particle-laden multiphase flows with OpenFOAM.
+* [IBAMR](https://github.com/IBAMR/IBAMR), C++, adaptive and distributed-memory parallel implementation of the immersed boundary (IB) method.
+* [WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl), Julia, simple and fast fluid simulator written in pure Julia.
+* [ibpm](https://github.com/cwrowley/ibpm), C++, solve the 2D incompressible Navier-Stokes equations using the projection method.
+
+### Building Cube Method (BCM)
+* [FrontFlow:Violet](https://github.com/avr-aics-riken/FFVC), C, hree-dimensional unsteady incompressible thermal flow simulator on a Cartesian grid system.
+
+### Euler-Euler
+* [ZZ-EFSI](http://www.scls.riken.jp/newsletter/Vol.6/special01.html), C++, Zouki Zenshin-Eulerian Fluid-Structure Interaction.
+
+### Partial Differential Equation (PDE)
+* [dftemplates](https://www.netlib.org/templates/), Fortran, C++, Matlab
+* [SUNDIALS](https://computing.llnl.gov/projects/sundials), Fortran/C, SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers.
+* [Dedalus](https://github.com/DedalusProject/dedalus), Python, flexible framework for solving partial differential equations using modern spectral methods.
+* [shenfun]（https://github.com/spectralDNS/shenfun）, Python·Cython, solving partial differential equations (PDEs) by the spectral Galerkin method.
+* [FEniCS](https://fenicsproject.org/), Python/C++,  solving partial differential equations (PDEs) with the finite element method (FEM).
+
+### Lagrangian Method
+* [LTRANSv2b](https://northweb.hpl.umces.edu/LTRANS.htm), Fortran, particle-tracking model that runs with the stored predictions of a 3D hydrodynamic model.
+* [tamoc](https://github.com/socolofs/tamoc), Fortran/Python, simulating a subsea oil spill.
+
+### Ocean
+* [POM](http://www.ccpo.odu.edu/POMWEB/), Fortran, powerful ocean modeling code to simulate a wide-range of problems.
+* [Veros](https://github.com/team-ocean/veros), Python, versatile ocean simulation in pure Python.
+* [Oceananigans](https://github.com/CliMA/Oceananigans.jl), Julia, finite volume simulations of the nonhydrostatic and hydrostatic Boussinesq equations.
+
+### Water flow
+* [MODFLOW](https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs), Fortran, simulating and predicting groundwater conditions and groundwater/surface-water interactions.
+* [shallow-water](https://github.com/jostbr/shallow-water), Python, solving the 2D shallow water equations.
+* [STOC](https://www.pari.go.jp/unit/tsunamitakashio/open-software/t-stoc/download/index.html), Fortran, storm surge and tsunami simulator in oceans and costal areas.
+
+### Others
+* [WRF](https://github.com/wrf-model/WRF), Fortran, Weather Research and Forecasting (WRF) model.
+* [lifex](https://lifex.gitlab.io/cfd.html), C++, easy-to-use tool for CFD simulations of the cardiac and cardiovascular system.
+* [rheoplast](https://www.matforge.org/powell/wiki/RheoPlast/), C, inite difference multi-physics code geared to phase field simulations.
+* [Nalu](https://github.com/NaluCFD/Nalu), C/C++, generalized unstructured massively parallel low Mach flow code.
+* [FDS](https://pages.nist.gov/fds-smv/), Fortran, large-eddy simulation (LES) code for low-speed flows, with an emphasis on smoke and heat transport from fires.
+* [PyFR](https://www.pyfr.org/), Python,  solving advection-diffusion type problems on streaming architectures using the Flux Reconstruction approach.
+* [Overture](https://www.overtureframework.org/), C++, curvilinear grids, adaptive mesh refinement, and the composite overlapping grid method.
+* [Py2Fly](https://gitlab.com/bvermeir/Py2Fly), Python, predicting airfoil and wing performance, generating airfoil shapes, and predicting aircraft performance.
+* [Parcels](https://github.com/OceanParcels/parcels), Python, create customisable particle tracking simulations using output from Ocean Circulation models.
+* [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady), Julia, interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy.
+* [TYPHON](https://sourceforge.net/projects/typhon/), Fortran, solve multi-physics problems on unstructured grids (inviscid Euler, Navier-Stokes flows, heat transfer).
+* [THINC](https://kensukeyokoi.com/thinc-wlic-source-codes/), Fortran, THINC/WLIC (tangent of hyperbola for interface capturing/weighed line interface calculation) scheme.
+* [TRUST](https://cea-trust-platform.github.io/), C++, conduction, incompressible single-phase, and Low Mach Number (LMN) flows with a robust Weakly-Compressible (WC) multi-species solver.
+* [TrioCFD](https://triocfd.cea.fr/), C++, simulation software in fluid mechanics based on the TRUST software platform.
+* [PteraSoftware](https://github.com/camUrban/PteraSoftware), Python, fast, easy-to-use, and open-source software package for analyzing flapping-wing flight.
+* [Dolfyn](https://www.dolfyn.net/), Fortran, promote, introduce and teach the use of modern numerical simulation techniques.
+* [Omega2D](https://github.com/Applied-Scientific-Research/Omega2D), C/C++, two-dimensional flow solver with GUI using vortex particle and boundary element methods.
+* [FluidDyn](https://fluiddyn.readthedocs.io/en/latest/), Python, promoting the use of open-source Python software in research in fluid dynamics.
+* [iNavier](https://inavier.sourceforge.net/), C++, Navier Stokes equation solver.
+* [OneFLOW](https://github.com/eric2003/OneFLOW), C++, largeScale multiphysics scientific simulation environment.
