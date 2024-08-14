@@ -1,5 +1,5 @@
 # codeCollection
-My source code collection, especially CFD codes
+My source code collection, especially CFD codes.
 
 ## From book
 ### FDM·FVM
